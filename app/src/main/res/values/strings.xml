@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Show Stores "</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_detail">Details</string>
+    <string name="list_latitude">latitude</string>
+    <string name="list_longitude">longitude</string>
+    <string name="list_details">1230 Oregon Ave</string>
+    <string name="list_addr">Address :</string>
+</resources>
